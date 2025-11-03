@@ -3,6 +3,8 @@
 **Date:** November 2025  
 **Location:** Hyderabad  
 **Docker Hub:** [https://hub.docker.com/repositories/anupam360](https://hub.docker.com/repositories/anupam360)
+Docker Mini Project — A hands-on DevOps assignment demonstrating Docker basics including containerization of a Flask app, data persistence using volumes, networking, and orchestration using Docker Compose.
+This project demonstrates practical Docker usage through containerization of a simple Flask web app, exploring images, volumes, networks, and orchestration with Docker Compose.
 
 ---
 
